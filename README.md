@@ -6,7 +6,7 @@ In collaboration with [Doug Horner](https://github.com/horner)
 
 ### Notes
 
-Check out the [markdown](https://github.com/alodish/alias-analysis/blob/main/main.md) file in this directory to see results
+Check out the [notebook](https://github.com/alodish/alias-analysis/blob/main/alias-analysis.ipynb) file in this directory to see results
 
 I had hoped to share all of my .pkl files, but they are far too large. The text files are available [here](https://github.com/stanfordnlp/GloVe)
 
