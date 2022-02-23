@@ -102,23 +102,54 @@ for csv in csv_results:
         print(n, df[n].values)
     print('\n\n')
 ```
-glove-42b-300d-results.csv 
 
-beth ['becky' 'sara' 'lori' 'brenda' 'julie']
-stephen ['andrew' 'steven' 'alan' 'jonathan' 'david']
-andrew ['stephen' 'brian' 'alan' 'nicholas' 'andy']
-john ['james' 'george' 'william' 'richard' 'paul']
-jennifer ['nicole' 'jessica' 'christina' 'amanda' 'julie']
-
-
-
-glove-6b-100d-results.csv 
-
-beth ['donna' 'phyllis' 'jane' 'pamela' 'joanne']
-stephen ['marshall' 'peter' 'steven' 'moore' 'andrew']
-andrew ['james' 'matthew' 'harris' 'stephen' 'stuart']
-john ['james' 'george' 'thomas' 'paul' 'william']
-jennifer ['amy' 'laura' 'michelle' 'julie' 'cynthia']
+    glove-42b-300d-results.csv 
+    
+    beth ['becky' 'sara' 'lori' 'brenda' 'julie']
+    stephen ['andrew' 'steven' 'alan' 'jonathan' 'david']
+    andrew ['stephen' 'brian' 'alan' 'nicholas' 'andy']
+    john ['james' 'george' 'william' 'richard' 'paul']
+    jennifer ['nicole' 'jessica' 'christina' 'amanda' 'julie']
+    
+    
+    
+    glove-6b-100d-results.csv 
+    
+    beth ['donna' 'phyllis' 'jane' 'pamela' 'joanne']
+    stephen ['marshall' 'peter' 'steven' 'moore' 'andrew']
+    andrew ['james' 'matthew' 'harris' 'stephen' 'stuart']
+    john ['james' 'george' 'thomas' 'paul' 'william']
+    jennifer ['amy' 'laura' 'michelle' 'julie' 'cynthia']
+    
+    
+    
+    glove-6B-200d-results.csv 
+    
+    beth ['garmaï' 'hamedrash' 'ostrosky' 'mccarthy-miller' 'hensperger']
+    stephen ['murphy' 'evans' 'miller' 'cooper' 'matthew']
+    andrew ['smith' 'matthew' 'james' 'harris' 'thahl']
+    john ['william' 'james' 'george' 'smith' 'thompson']
+    jennifer ['connelly' 'amy' 'lisa' 'samantha' 'aniston']
+    
+    
+    
+    glove-6B-300d-results.csv 
+    
+    beth ['marykane2000' 'svahng' 'muhlt' 'prihn' 'sihp']
+    stephen ['murphy' 'bruhth' 'rohch' 'rohsh' 'steven']
+    andrew ['matthew' 'thahl' 'stuart' 'bruhth' 'stephen']
+    john ['james' 'rohch' 'thomas' 'hyoon' 'rohsh']
+    jennifer ['amy' 'lisa' 'michelle' 'connelly' 'oxeant']
+    
+    
+    
+    glove-6B-50d-results.csv 
+    
+    beth ['amy' 'melissa' 'tracey' 'joanne' 'walters']
+    stephen ['andrew' 'matthew' 'clarke' 'peter' 'stuart']
+    andrew ['stephen' 'clarke' 'stuart' 'nathan' 'howard']
+    john ['james' 'william' 'thomas' 'henry' 'george']
+    jennifer ['lisa' 'michelle' 'amy' 'jessica' 'lindsay']
 
 
 
