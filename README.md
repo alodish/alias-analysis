@@ -17,7 +17,7 @@ Thank you to Stanford's NLP GloVe group for the countless hours they put into th
 
 ### Findings
 
-Long story short: This is not a great way to find the associated nicknames for a given proper name.
+**Long story** short: This is not a great way to find the associated nicknames for a given proper name.
 
 It became evident that the results derived from crawling the web for millions of words rarely results in a close relationship between names and nicknames.
 
