@@ -1,6 +1,14 @@
+# TL;DR
+
+We iterated through millions of embeddings provided by Stanford's NLP GloVe team in order to determine if nicknames were close in relationship to their associated proper names.
+
+As it turns out, this is rarely the case. The 300 dimension vectors outperformed the vectors of lower dimensionality.
+
+There is some merit regarding further tuning in an attempt to reach desired results
+
 # Alias Analysis
 
-Examined GloVe (Global Vectors for Word Representation) vectors in an attempt to find nicknames for proper names
+Examined GloVe (Global Vectors for Word Representation) in an attempt to find nicknames for proper names
 
 In collaboration with [Doug Horner](https://github.com/horner)
 
