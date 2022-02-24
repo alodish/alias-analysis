@@ -16,7 +16,7 @@ In collaboration with [Doug Horner](https://github.com/horner)
 
 Check out the [notebook](https://github.com/alodish/alias-analysis/blob/main/alias-analysis.ipynb) in this directory to see results.
 
-I had hoped to share all of my .pkl files, but they are far too large. The text files are available [here](https://github.com/stanfordnlp/GloVe).
+The text files are available [here](https://github.com/stanfordnlp/GloVe).
 
 After downloading the text file(s) of your chosing, feel free to use the pickle-dicts.py file to convert them all to Pickle files.
 
